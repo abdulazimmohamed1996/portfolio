@@ -1,0 +1,17 @@
+A:\Pro_AspMvc\My Portfolio\Infarastructor\bin\Debug\net7.0\Infarastructor.deps.json
+A:\Pro_AspMvc\My Portfolio\Infarastructor\bin\Debug\net7.0\Infarastructor.runtimeconfig.json
+A:\Pro_AspMvc\My Portfolio\Infarastructor\bin\Debug\net7.0\Infarastructor.dll
+A:\Pro_AspMvc\My Portfolio\Infarastructor\bin\Debug\net7.0\Infarastructor.pdb
+A:\Pro_AspMvc\My Portfolio\Infarastructor\bin\Debug\net7.0\Core.dll
+A:\Pro_AspMvc\My Portfolio\Infarastructor\bin\Debug\net7.0\Core.pdb
+A:\Pro_AspMvc\My Portfolio\Infarastructor\obj\Debug\net7.0\Infarastructor.csproj.AssemblyReference.cache
+A:\Pro_AspMvc\My Portfolio\Infarastructor\obj\Debug\net7.0\Infarastructor.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_AspMvc\My Portfolio\Infarastructor\obj\Debug\net7.0\Infarastructor.AssemblyInfoInputs.cache
+A:\Pro_AspMvc\My Portfolio\Infarastructor\obj\Debug\net7.0\Infarastructor.AssemblyInfo.cs
+A:\Pro_AspMvc\My Portfolio\Infarastructor\obj\Debug\net7.0\Infarastructor.csproj.CoreCompileInputs.cache
+A:\Pro_AspMvc\My Portfolio\Infarastructor\obj\Debug\net7.0\Infarastructor.csproj.CopyComplete
+A:\Pro_AspMvc\My Portfolio\Infarastructor\obj\Debug\net7.0\Infarastructor.dll
+A:\Pro_AspMvc\My Portfolio\Infarastructor\obj\Debug\net7.0\refint\Infarastructor.dll
+A:\Pro_AspMvc\My Portfolio\Infarastructor\obj\Debug\net7.0\Infarastructor.pdb
+A:\Pro_AspMvc\My Portfolio\Infarastructor\obj\Debug\net7.0\Infarastructor.genruntimeconfig.cache
+A:\Pro_AspMvc\My Portfolio\Infarastructor\obj\Debug\net7.0\ref\Infarastructor.dll

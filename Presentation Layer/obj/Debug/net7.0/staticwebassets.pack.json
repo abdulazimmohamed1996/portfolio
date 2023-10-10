@@ -1,0 +1,273 @@
+{
+  "Files": [
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Presentation Layer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Presentation Layer.bundle.scp.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\css\\freelancer.css",
+      "PackagePath": "staticwebassets\\css\\freelancer.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\all.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\all.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\all.min.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\brands.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\brands.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\brands.min.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\fontawesome.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\regular.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\regular.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\regular.min.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\solid.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\solid.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\solid.min.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\v4-shims.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\Zima.jpg",
+      "PackagePath": "staticwebassets\\img\\Zima.jpg"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\portfolio\\1216376-new-dark-abstract-wallpapers-hd-2560x1440-for-android-50.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\1216376-new-dark-abstract-wallpapers-hd-2560x1440-for-android-50.jpg"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\portfolio\\1_QpkU690MioKK7lHwLE0_Bg.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\1_QpkU690MioKK7lHwLE0_Bg.png"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\portfolio\\2-nature-wallpaper-grass.1280.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\2-nature-wallpaper-grass.1280.jpg"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\portfolio\\ahmed tartour.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\ahmed tartour.jpg"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\portfolio\\angry.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\angry.png"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\portfolio\\commercial.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\commercial.png"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\portfolio\\ecole.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\ecole.png"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\portfolio\\flappy.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\flappy.png"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\portfolio\\gps.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\gps.png"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\portfolio\\home1.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\home1.png"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\img\\portfolio\\instagram.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\instagram.png"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\freelancer.js",
+      "PackagePath": "staticwebassets\\js\\freelancer.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\freelancer.min.js",
+      "PackagePath": "staticwebassets\\js\\freelancer.min.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\jquery.easing.compatibility.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.compatibility.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\jquery.min.map",
+      "PackagePath": "staticwebassets\\js\\jquery.min.map"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slim.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slim.min.js"
+    },
+    {
+      "Id": "A:\\Pro_AspMvc\\My Portfolio\\Presentation Layer\\wwwroot\\js\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\js\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Presentation Layer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Presentation Layer.props",
+      "PackagePath": "build\\Presentation Layer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Presentation Layer.props",
+      "PackagePath": "buildMultiTargeting\\Presentation Layer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Presentation Layer.props",
+      "PackagePath": "buildTransitive\\Presentation Layer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

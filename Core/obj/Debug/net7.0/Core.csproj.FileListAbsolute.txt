@@ -1,0 +1,12 @@
+A:\Pro_AspMvc\My Portfolio\Core\bin\Debug\net7.0\Core.deps.json
+A:\Pro_AspMvc\My Portfolio\Core\bin\Debug\net7.0\Core.dll
+A:\Pro_AspMvc\My Portfolio\Core\bin\Debug\net7.0\Core.pdb
+A:\Pro_AspMvc\My Portfolio\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+A:\Pro_AspMvc\My Portfolio\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_AspMvc\My Portfolio\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+A:\Pro_AspMvc\My Portfolio\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+A:\Pro_AspMvc\My Portfolio\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+A:\Pro_AspMvc\My Portfolio\Core\obj\Debug\net7.0\Core.dll
+A:\Pro_AspMvc\My Portfolio\Core\obj\Debug\net7.0\refint\Core.dll
+A:\Pro_AspMvc\My Portfolio\Core\obj\Debug\net7.0\Core.pdb
+A:\Pro_AspMvc\My Portfolio\Core\obj\Debug\net7.0\ref\Core.dll
